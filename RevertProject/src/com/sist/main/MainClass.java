@@ -16,7 +16,6 @@ public class MainClass {
 		System.out.println("Hello Revert Commit -2");
 		System.out.println("Hello Revert Commit -3");
 		System.out.println("Hello Revert Commit -4");
-		System.out.println("Hello Revert Commit -5");
 		
 	}
 
