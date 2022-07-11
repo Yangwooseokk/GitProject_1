@@ -1,0 +1,24 @@
+From f831c4c8dc0e2b29edbc6f12e31166528035aa87 Mon Sep 17 00:00:00 2001
+From: "dap06044@naver.com" <dap06044@naver.com>
+Date: Mon, 11 Jul 2022 19:09:00 +0900
+Subject: [PATCH] commit-2
+
+---
+ RevertProject/src/com/sist/main/MainClass.java | 1 +
+ 1 file changed, 1 insertion(+)
+
+diff --git a/RevertProject/src/com/sist/main/MainClass.java b/RevertProject/src/com/sist/main/MainClass.java
+index 755a4da..1bb78a2 100644
+--- a/RevertProject/src/com/sist/main/MainClass.java
++++ b/RevertProject/src/com/sist/main/MainClass.java
+@@ -16,6 +16,7 @@ public class MainClass {
+ 		System.out.println("Hello Revert Commit -2");
+ 		System.out.println("Hello Revert Commit -3");
+ 		System.out.println("Hello Revert Commit -4");
++		System.out.println("Hello Revert Commit -5");
+ 		
+ 	}
+ 
+-- 
+2.37.0.windows.1
+
